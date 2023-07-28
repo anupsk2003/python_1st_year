@@ -1,1 +1,1 @@
-# python_1st_year
+# repository containing python prog
